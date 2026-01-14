@@ -1,4 +1,4 @@
-# AutomationTesting---Shopin
+# Automation Testing (Shopin application)
 
 You can use this `production-like` app as you consider but it was meant for automation testing (e.g, Protractor, Cypress, Selenium, even unit tests).
 
