@@ -14,7 +14,7 @@ TypeScript, we set `src` as the source folder for TypeScript files, and `dist` a
 9. Create the `src` folder under `TSProject` folder
 10. Create in the `src` folder a TypeScript file named `index.ts` (see its content in the above code repo)
 11. Click on `Run and Debug` button (or press `F5`)
-12. Click on the 'create a launch.json file` link and select `Node.js` from the droplist (this will create the `launch.json` file)
+12. Click on the `create a launch.json file` link and select `Node.js` from the droplist (this will create the `launch.json` file)
 13. At this point, you can successfully run `index.ts` by pressing `F5` (you should see the output in the `DEBUG CONSOLE`
 14. Now, let's add a new file, let's name it `person.ts` and update `index.ts` to use it (see their content in the above code repo)
 15. At this moment is possible that you'll see this error `A top-level 'export' modifier cannot be used on value declarations in a 
