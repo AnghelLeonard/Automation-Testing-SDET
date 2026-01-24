@@ -1,7 +1,6 @@
 build/
 target/
 target/generated-sources/jooq
-dist/
 nbproject/
 nbactions.xml
 nbactions.tmp
